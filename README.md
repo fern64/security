@@ -10,7 +10,7 @@
 
 | Module Name                                           | Status |
 | ----------------------------------------------------- | ------ |
-| Introduction to Information Security                  |        |
+| Introduction to Information Security                  | ✅     |
 | Network Foundations                                   |        |
 | Introduction to Networking                            |        |
 | Linux Fundamentals                                    |        |
