@@ -11,5 +11,5 @@
 
 ## Sections
 
-- [Principles](./principles.md)
-- [Domains](./domains.md)
+- [Principles](./sections/principles.md)
+- [Domains](./sections/domains.md)
