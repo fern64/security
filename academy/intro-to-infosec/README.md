@@ -42,16 +42,12 @@
 
 ### Application Security
 
-1. Develop the app
-2. Test for vulnerabilities
-3. Ongoing security monitoring
-
-Developing an app following **Security by Design**, security is considered right from the planning stage:
-
-- Threat modeling (identify potential risks)
-- Security-focused code reviews
-- Server and database security
-- Authentication and authorization
+| Step | Stage                       | Measures                                   |
+| ---- | --------------------------- | ------------------------------------------ |
+| 1    | Risk assessment             | Threat modeling (identify potential risks) |
+| 2    | Application development     | Security-focused code reviews              |
+| 3    | Test for vulnerabilities    | Authentcation and authorization            |
+| 4    | Ongoing security monitoring | Server and database security               |
 
 ### Operational Security
 
