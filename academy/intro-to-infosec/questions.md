@@ -8,7 +8,7 @@ The "C" stands for confidentiality.
 
 "DR" stands for Disaster Recovery.
 
-#### How many layers are typically included in device protection? (Format: \<number>)
+#### How many layers are typically included in device protection?
 
 4 layers are typically included.
 
