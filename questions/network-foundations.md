@@ -1,4 +1,4 @@
-# Questions
+# Network Foundations
 
 #### What is the term for a collection of interconnected devices that can communicate and share resources with each other?
 
@@ -111,3 +111,75 @@ The "DORA" acronym.
 #### What type of message does a client send to accept an IP address from a DHCP server?
 
 A "Request" message.
+
+#### What type of NAT allows multiple private IP addresses to share one public IP address using unique port numbers?
+
+Port Address Translation (PAT) is a type of NAT that differentiates connections through unique port numbers.
+
+#### What RFC specifies private IP ranges?
+
+Private (non-routable) IP ranges are specified in RFC 1918.
+
+#### Which NAT type involves a one-to-one mapping of private IP addresses to public IP addresses?
+
+Static NAT.
+
+#### What type of NAT assigns a public IP from a pool as needed?
+
+This is the dynamic NAT type.
+
+#### What device typically performs NAT in a home network?
+
+The router performs NAT.
+
+#### What type of domain is `.com` considered as?
+
+A `.com` domain is a Top Level Domain (TLD).
+
+#### In the domain `www.example.com`, what is `example` called?
+
+This is the second-level domain.
+
+#### What is checked first in the DNS resolution process when you enter a domain name into a browser?
+
+The DNS cache is checked first.
+
+#### What type of DNS server is typically provided by an Internet Service Provider?
+
+A recursive DNS server.
+
+#### Which server directs the recursive DNS server to the appropriate TLD name server?
+
+A root server.
+
+#### What numerical label uniquely identifies a device on a network?
+
+An IP address.
+
+#### In the URL "accounts.google.com", what is `accounts` considered as?
+
+A subdomain.
+
+#### What type of architecture allows nodes to act as both client and server?
+
+A peer-to-peer architecture.
+
+#### What architecture combines elements of both Client-Server and Peer-to-Peer models?
+
+A hybrid architecture.
+
+#### Which cloud service model involves accessing applications over the internet without managing the underlying infrastructure?
+
+A software-as-a-service (SaaS) model.
+
+#### In which architecture is the control plane separated from the data plane?
+
+Software-defined networking.
+
+#### Which architecture is known for decentralized data sharing without a central server?
+
+The peer-to-peer architecture.
+
+#### What model is used by video conferencing apps to combine centralized coordination with peer-to-peer data transfer?
+
+A hybrid model.
