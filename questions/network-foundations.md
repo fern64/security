@@ -183,3 +183,59 @@ The peer-to-peer architecture.
 #### What model is used by video conferencing apps to combine centralized coordination with peer-to-peer data transfer?
 
 A hybrid model.
+
+#### What type of waves do wireless networks use to connect devices?
+
+Radio waves are used in wireless networks.
+
+#### What device combines the functions of routing and providing Wi-Fi coverage in a home network?
+
+A wireless router.
+
+#### What is used by a mobile hotspot to connect devices to the internet?
+
+A mobile hotspot uses cellular data.
+
+#### What structure supports antennas and communications equipment to create cellular network coverage?
+
+A cell tower.
+
+#### What manages multiple cell towers in cellular networks?
+
+Multiple cell towers are managed by a Base Station Controller.
+
+#### Which frequency band is known for better wall penetration but more prone to interference?
+
+The 2.4Ghz frequency band.
+
+#### What device monitors network traffic and enforces rules to allow or block specific traffic?
+
+A firewalll.
+
+#### Which type of firewall operates at the network and transport layers of the OSI model?
+
+A packet-filtering firewall.
+
+#### What advanced feature does a Next-Generation Firewall include beyond stateful inspection?
+
+The deep packet inspection is the advanced feature of a NGF.
+
+#### Which system generates alerts for suspicious network activity without blocking it?
+
+An Intrusion Detection System (IDS).
+
+#### Which system not only detects but also prevents suspicious network activity by blocking it?
+
+An Intrusion Prevention System (IPS).
+
+#### What detection method involves comparing network traffic against a database of known exploits?
+
+A signature-based detection method.
+
+## Skills Assessment
+
+#### What IPv4 address is used when a host wants to send and receive network traffic to itself?
+
+The localhost address `127.0.0.1`.
+
+#### What is the the name of the Program listening on localhost:5901 of the Pwnbox?
