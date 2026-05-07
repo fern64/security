@@ -11,7 +11,7 @@
 | Module Name                                                                  | Status |
 | ---------------------------------------------------------------------------- | ------ |
 | [Introduction to Information Security](./academy/intro-to-infosec/README.md) | ✅     |
-| Network Foundations                                                          |        |
+| [Network Foundations](./academy/network-foundations/README.md)               | ✅     |
 | Introduction to Networking                                                   |        |
 | Linux Fundamentals                                                           |        |
 | Introduction to Bash Scripting                                               |        |
