@@ -1,4 +1,6 @@
-# Skills Assessment
+# Network Foundations Skills Assessment
+
+We will be attacking a Windows target with a FTP server and a HTTP server which has active packet filtering.
 
 ```
 $ sudo nmap -sV -p 21,80 10.129.4.137
@@ -78,7 +80,6 @@ The site should be finished within the next couple of weeks. I'll keep you poste
 
 Cheers,
 jarednexgent
-
 ```
 
 According to `Note-From-IT.txt`, the web server on port 80 is employing **packet filtering**, accepting only requests with the `User-Agent: Server Administrator` HTTP header set.
