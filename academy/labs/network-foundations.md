@@ -62,7 +62,7 @@ PASV^M
 RETR Note-From-IT.txt
 ```
 
-Then we connect to the data channel:
+Then we connect to the new data channel (`194 * 256 + 12 = 49676`):
 
 ```
 $ nc -v 10.129.4.137 49676
@@ -84,7 +84,7 @@ jarednexgent
 
 According to `Note-From-IT.txt`, the web server on port 80 is employing **packet filtering**, accepting only requests with the `User-Agent: Server Administrator` HTTP header set.
 
-We can use `nc` again to connect to the HTTP format and send a crafted request:
+We can use `nc` again to connect to the HTTP server and send a crafted request:
 
 ```
 $ nc 10.129.4.137 80
