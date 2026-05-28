@@ -1,4 +1,4 @@
-# Network Foundations Skills Assessment
+# Skills Assessment
 
 We will be attacking a Windows target with a FTP server and a HTTP server which has active packet filtering.
 
