@@ -78,7 +78,6 @@ The site should be finished within the next couple of weeks. I'll keep you poste
 
 Cheers,
 jarednexgent
-
 ```
 
 According to `Note-From-IT.txt`, the web server on port 80 is employing **packet filtering**, accepting only requests with the `User-Agent: Server Administrator` HTTP header set.
